@@ -14,7 +14,7 @@ Here's a few things that interest me, and where my contributions on GitHub may b
 - glTF (the file format and tools)
 - small C++ header only libraries
 - Tools that help cross-platform development
-- vidoe game engines
+- video game engines
 
 Good ways to reach me are [@Ybalrid](https://www.twitter.com/Ybalrid) on twitter, and [ybalrid@ybalrid.info](mailto:ybalrid@ybalrid.info) via email!
 
