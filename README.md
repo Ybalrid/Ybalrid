@@ -1,14 +1,14 @@
 ### 👋
 
-Hello, I'm Yba, I'm a C++/C# developer specilalized in everything regarding systems programming and XR.
+Hello, I'm Yba, I'm a C++/C# developer specialized in everything regarding systems programming and XR.
 
-I work at [@LIV](https://liv.tv) on Mixed Reality streaming software, and some new and exciting audience interaction technology!
+I work at [@LIV](https://liv.tv) on Mixed Reality streaming software, and a bunch of other things!
 
-In my free time, I play with some electronics, and I may have *too many* side projects to count them that I pick up and work when the interest comes!
+In my free time, I play with some electronics, and I may have *too many* side projects to count them that I pick up and work on when the interest comes!
 
 I love Open-Source software, anything that runs on Linux. 
 
-Here's a few things that interest me, and where my contributions on GitHub may be focused these days:
+Here are a few things that interest me, and where my contributions on GitHub may be focused these days:
 
 - OpenXR
 - glTF (the file format and tools)
