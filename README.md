@@ -1,6 +1,6 @@
 ### 👋
 
-Hello, I'm Yba, I'm a C++/C# developer (that also dabble in Rust and a bunch of other things) specialized in everything regarding low level systems programming, graphics, and interacting with AR/VR/XR hardware.
+Hello, I'm Arthur, and a C++/C# developer (that also dabble in Rust and a bunch of other things) specialized in everything regarding **low level systems programming**, **graphics**, and interacting with **AR/VR/XR hardware**.
 
 I am an independant consultant and I am available for short or long term missions, do not hesitate to reach yout if my special set of skills may help you realize your projects! 😎
 
