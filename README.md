@@ -6,7 +6,7 @@ I am an independant consultant and I am available for short or long term mission
 
 I am based in France but I have worked remotely with distributed team for the better part of a decade now.
 
-I work at [@LIV](https://liv.tv) on Mixed Reality streaming software, and a bunch of other things!
+For the past few years, I've work at [@LIV](https://liv.tv) on Mixed Reality streaming software, and a bunch of other things!
 
 In my free time, I play with some electronics, old film cameras, and I may have *too many* side projects to count them that I pick up and work on when the interest comes! 😁
 
